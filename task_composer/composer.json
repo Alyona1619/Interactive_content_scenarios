@@ -1,0 +1,19 @@
+{
+    "require": {
+        "doctrine/orm": "^2.16",
+        "mouf/utils.cache.in-memory-cache": "^1.0.2",
+        "phpoffice/phpspreadsheet": "^1.29.0",
+        "tecnickcom/tcpdf": "^6.6.5",
+        "twilio/sdk": "^7.12.0",
+        "laminas/laminas-mail": "^2.23.0",
+        "aws/aws-sdk-php": "^3.283.12",
+        "sch-group/pickpoint": "^4.2",
+        "lapaygroup/russianpost": "^0.9.21",
+        "venca-x/social-login": "^1.2.15",
+        "azate/laravel-telegram-login-auth": "^2.3.0",
+        "voronkovich/sberbank-acquiring-client": "^2.8"
+    },
+    "require-dev": {
+        "phpunit/php-code-coverage": "^10.1.7"
+      }
+}
