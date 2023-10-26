@@ -1,40 +1,40 @@
-1) "doctrine/orm" </br>
+1) *"doctrine/orm" </br>*
         Объектно-реляционный проектор для PHP 7.1+, который базируется на слое абстракции доступа к БД. Одной из ключевых возможностей Doctrine является запись запросов к БД на собственном объектно-ориентированном диалекте SQL, называемом DQL и базирующемся на идеях HQL.
-2) "mouf/utils.cache.in-memory-cache"</br>
+2) *"mouf/utils.cache.in-memory-cache"*</br>
         Этот пакет содержит самый базовый механизм кэширования. Он хранит элементы кэша в массиве. Это означает, что кэш очищается, как только скрипт возвращается. Это очень просто, но и очень быстро. Обычно вы будете использовать этот механизм с другим, расположенным сразу за ним.
 
-3) "phpoffice/phpspreadsheet"</br>
+3) *"phpoffice/phpspreadsheet"*</br>
         Php Spreadsheet - это библиотека, написанная на чистом PHP и предлагающая набор классов, которые позволяют вам читать и записывать различные форматы файлов электронных таблиц, такие как Excel и LibreOffice Calc.
 
-4) "tecnickcom/tcpdf"</br>
+4) *"tecnickcom/tcpdf"*</br>
         TCPDF - это PHP-класс для генерации PDF-документов и штрих-кодов.
 
-5) "twilio/sdk"</br>
+5) *"twilio/sdk"*</br>
         Twilio Messaging API позволяет легко отправлять и получать SMS и MMS сообщения
 
-6) "laminas/laminas-mail"</br>
+6) *"laminas/laminas-mail"*</br>
         Предоставляет обобщенную функциональность для составления и отправки как текстовых, так и MIME-совместимых составных сообщений электронной почты
 
-7) "aws/aws-sdk-php"</br>
+7) *"aws/aws-sdk-php"*</br>
         AWS SDK для PHP - Используйте Amazon Web Services в своем PHP-проекте (AWS S3)
 
-8) "sch-group/pickpoint"</br>
+8) *"sch-group/pickpoint"*</br>
         API российской службы доставки PickPoint</br>
-    "lapaygroup/russianpost"</br>
+    *"lapaygroup/russianpost"*</br>
         SDK для работы с API Почты России (pochta.ru)
 
-9) "venca-x/social-login" </br>
+9) *"venca-x/social-login"*</br>
         Авторизация через Faceboook, Google, Twitter</br>
-    "azate/laravel-telegram-login-auth" </br>
+    *"azate/laravel-telegram-login-auth"*</br>
         Авторизация через Телеграмм
 
-10) "yandex-market/yandex-market-php-partner" </br>
+10) *"yandex-market/yandex-market-php-partner"*</br>
         С помощью партнерского API Яндекс.Маркета для моделей DBS (Delivery by Seller, продажи с доставкой продавца) и ADV (Advertising, рекламная модель) внешние приложения могут получать сведения о своих магазинах и предложениях и управлять ими. 
 
-11) "voronkovich/sberbank-acquiring-client" </br>
+11) *"voronkovich/sberbank-acquiring-client"*</br>
         PHP-клиент для REST API Сбербанка и Альфа-банка 
 
-12) "phpunit/php-code-coverage"</br>
+12) *"phpunit/php-code-coverage"*</br>
         Библиотека, предоставляющая функции сбора, обработки и рендеринга информации о покрытии кода PHP</br>
 
 * Необходимы расширения (extensions) php-xml, php-curl, php-zip, php-gd, php-soap
